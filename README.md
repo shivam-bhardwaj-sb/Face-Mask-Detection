@@ -2,6 +2,7 @@
 Transfer Learning was used with the help of Inception V3 Architecture and Imagenet weights, for the prediction of whether a person is wearing mask or not.
 
 Test Set: 816 images
+
 Train Set: 196 images
 
 [
